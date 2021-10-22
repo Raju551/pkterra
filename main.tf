@@ -7,6 +7,6 @@ resource "aws_instance" "app-server1" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "pkdas-server-new-tf"
+    Name = "pkdas-server-nilesh"
   }
 }
